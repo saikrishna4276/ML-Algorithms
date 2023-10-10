@@ -1,6 +1,6 @@
 ## ML-Algorithms
 
-**NOTE**: All the algorithms are developrd from scratch.
+**NOTE**: All the algorithms are developed from scratch.
 
 Repository for Machine Learning Algorithms
 
@@ -19,3 +19,7 @@ This directory contains decision tree algorithm.
 ### Ensemble Learning
 
 This directory contains all ensemble techniques.
+
+### GAN
+
+This directory contains implementation details of different GANs.
